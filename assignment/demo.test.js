@@ -14,7 +14,7 @@ describe("Demo", ()=>{
         const valueArr = ["Book A", "Book B"];
 
         const result = convert(keyArr, valueArr);
-        expect(result["NLB1"]).toBe("Book A");
-        expect(result["NLB2"]).toBe("Book B");
+        expect(result["NLB1"]).toBe["Book A"];
+        expect(result["NLB2"]).toBe["Book B"];
     })
 })
